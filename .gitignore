@@ -1,3 +1,5 @@
 
 Assign3- Datasets/
 .DS_Store
+*.csv
+.venv/
