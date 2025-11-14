@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud & Transaction Amount Prediction
+# 💳 Financial Fraud Detection and Transaction Value Prediction
 
 ## 🌟 Project Overview
 
